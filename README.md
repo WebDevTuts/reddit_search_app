@@ -13,3 +13,5 @@ parcel index.html
 
 # Compiled code in ./dist
 ```
+
+![Preview](screenshot.jpg)
